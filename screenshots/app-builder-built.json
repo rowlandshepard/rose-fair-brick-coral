@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Tract",
+      "hasCanvas": false,
+      "bodyTextLen": 799,
+      "bodyTextHash": "861c9a6f8fed71acf8a3a5fdd9b839a30965fa253dcc9742b9e86b4cebf635c6",
+      "bodyTextPrefix": "UNIT V · VISCERAL BODY Tract Answer, then grade the card. A miss",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Tract",
+      "hasCanvas": false,
+      "bodyTextLen": 743,
+      "bodyTextHash": "536cc7c1bd7e3d644815fdb047dc67085915840f203cd35799b9c67eb8bfcb55",
+      "bodyTextPrefix": "UNIT V · VISCERAL BODY Tract Answer, then grade the card. A miss",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
